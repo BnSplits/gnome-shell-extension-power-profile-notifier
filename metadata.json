@@ -2,7 +2,6 @@
   "name": "Power Profile Notifier",
   "description": "Just an extension that show an OSD when the power profile change",
   "uuid": "powerprofilenotifier@bnsplits.github.com",
-  "shell-version": [
-    "48"
-  ]
+  "shell-version": ["48"],
+  "version": 1
 }
